@@ -21,11 +21,10 @@
 
 <div align="center"> 
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jazz-ing&show_icons=true&theme=cobalt"/>
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jazz-ing&show_icons=true&theme=cobalt"/>
 
 🍎  I love being `an iOS engineer`.  
-📱 I want to make an app on productivity, cultural activities  
-  and all small vulnerable things.  
+📱 I want to make an app on productivity, cultural activities and all small vulnerable things.  
 🐻 I learned at [Yagom iOS Carrer Starter Camp](https://www.yagom-academy.kr/).  
 😍 If you want to see `my projects`, click the link below please :)  
 |Project Link|Description|
